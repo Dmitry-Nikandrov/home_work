@@ -7,3 +7,6 @@ def word_title (word):
 
 def word_title2 (word):
     return word.title()
+
+def word_title4 (word):
+    return word.title()
